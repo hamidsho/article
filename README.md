@@ -1,2 +1,4 @@
 # article
-Article Apps With CI 4 and Vue JS
+
+Program ini dibangun dengan menggunakan backend CI 4 dan frontend VueJs 3
+Database Name article
